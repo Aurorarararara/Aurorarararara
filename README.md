@@ -5,6 +5,6 @@
 ![](https://img.shields.io/badge/讨厌-学习-yellow)
 <div>
 
-![头像](pic.jpg)
+![头像](image/pic.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/Aurorararara/count.svg)
